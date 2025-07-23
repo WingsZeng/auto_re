@@ -1,0 +1,8 @@
+{
+    "IDAMetadataDescriptorVersion": 1,
+    "plugin" :
+    {
+      "name" : "auto_re",
+      "entryPoint" : "auto_re.py"
+    }
+  }
